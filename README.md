@@ -34,6 +34,8 @@ So far, I have:
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Supabase&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Quarkus-%2320232a.svg?style=for-the-badge&logo=quarkus&logoColor=%2361DAFB" height="30" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="30" />
 </p>
@@ -56,17 +58,24 @@ So far, I have:
 
 ## What I'm Currently...
 <p>
-<b> &#x1F393;  ...Learning: </b> Integrations with Power BI <br>
+<b> &#x1F393;  ...Learning: </b> Java Microservices with Quarkus <br>
 <b> &#x1F3A7; ...Listening To:  </b> "Blonde" by Frank Ocean <br>
-<b> &#x1F440; ...Watching:  </b> Succession, Mr. Robot <br>
-<b> &#x1F4DA; ...Reading:  </b> "East of Eden" by John Steinbeck <br>
-<b> &#x1F3AE; ...Playing: </b> Apex Legends, Valorant <br>
+<b> &#x1F440; ...Watching:  </b> The Sopranos <br>
+<b> &#x1F4DA; ...Reading:  </b> "Sapiens: A Brief History of Humankind" by Yuval Noah Harari<br>
+<b> &#x1F3AE; ...Playing: </b> Baldur's Gate 3 <br>
 </p>
 
 ## My Stats
+<details>
+<summary> &#x1F913; GitHub Stats</summary>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tower182&count_private=true&show_icons=true&theme=synthwave">
+
+  <img src="https://github-readme-stats-henna-eta-68.vercel.app/api?username=tower182&count_private=true&show_icons=true&theme=synthwave">
 </p>
+<p alight="left">
+  <img src="https://github-readme-stats-henna-eta-68.vercel.app/api/top-langs/?username=tower182&count_private=true&show_icons=true&theme=synthwave">
+</p>
+</details>
 
 ## Connect with Me
 <p>
